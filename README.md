@@ -38,8 +38,8 @@ Content{name=Ahmed Mohamed, department=IT, salary=75000}
 
 Connecting to FTP test server...
 Files on the server:
-1- pub
-2- readme.txt
+- pub
+- readme.txt
 Downloaded: readme.txt
 FTP operations completed
 
