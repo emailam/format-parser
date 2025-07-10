@@ -1,0 +1,7 @@
+person:
+  name: Sarah
+  age: 27
+  skills:
+    - Java
+    - Python
+    - SQL

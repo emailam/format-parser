@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<employee>
+  <name>Ahmed Mohamed</name>
+  <department>IT</department>
+  <salary>75000</salary>
+</employee>
